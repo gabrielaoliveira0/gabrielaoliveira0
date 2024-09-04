@@ -1,17 +1,11 @@
--oioi meu nome é gaby😻
--estou no primeiro ano do ensino medio😞
--etou fazendo o alura📝
--tenho 17 aninhos🫀
--'apenas viva intensamente'
-        -💋
--@gabrielaoliveira0
+Boas vindas ao meu perfil 💙💙
 
+Meu nome é gabriela oliveira
 
+Estou estudando na [Alura](https:www.alura.com.br)
 
+oliveira.santos.gabriela0808@escola.pr.gov.br
 
+“Em todas as lágrimas há uma esperança.”
 
-
-<!---
-gabrielaoliveira0/gabrielaoliveira0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://media1.tenor.com/m/P5T35h3EdT0AAAAd/pulo-jogadores-do-gr%C3%AAmio.gif)
